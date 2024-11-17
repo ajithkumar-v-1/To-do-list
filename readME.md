@@ -47,6 +47,8 @@ The To-Do List Application is a simple web-based tool developed using HTML, CSS,
 - `style.css`: The CSS file for styling the to-do list.
 - `script.js`: The JavaScript file for adding interactive functionality.
 
+- for project view https://to-do-list-blush-xi.vercel.app/
+
 ## Future Enhancements
 - **Persistent Storage**: Implement local storage to save tasks between sessions.
 - **Categorization**: Add options for task categorization and filtering.
